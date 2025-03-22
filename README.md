@@ -43,3 +43,6 @@ To install, run `sudo make install` after building. You can set the daemon to st
 ## Compatible Devices
 
 [For a list of tested devices, check TESTED.md](TESTED.md)
+
+## More Info:
+https://danishshakeel.me/configure-logitech-mx-master-3-on-linux-logiops/
